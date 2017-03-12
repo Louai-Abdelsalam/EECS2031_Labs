@@ -1,0 +1,36 @@
+John Smith
+10
+20
+Michael J Smith
+15
+20
+Glennie Macarthur
+30
+40
+Melia Ramsburg
+23
+45
+Wallace Weiss
+49
+23
+Emmy Rodi
+50
+90
+Shaunta Sinkfield
+29
+85
+Lyndsay Riser
+79
+68
+Leilani Weldy
+14
+95
+Jason Roye
+59
+67
+German Hoy
+43
+68
+Jesse Boster
+88
+29
